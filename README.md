@@ -1,5 +1,5 @@
 Role Based Access Control for Kohana3
-!(rbac table)[http://farm2.static.flickr.com/1300/4711754990_8c1e43829a.jpg]
+![rbac table](http://farm2.static.flickr.com/1300/4711754990_8c1e43829a.jpg)
 
 Usage
 =======
