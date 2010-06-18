@@ -2,8 +2,7 @@
 class Controller_Admin_Rbac extends Controller
 {
 	/**
-	 * @rule access control
-	 * @rule access control (with condition)|$user->id == 2
+	 * @rule access rbac
 	 */
 	public function action_index()
 	{
