@@ -4,7 +4,7 @@ Role Based Access Control for Kohana3
 
 Usage
 =======
-**1) enable rbac module in bootstrap.php**
+**1) enable rbac module in bootstrap.php (auth module is needed)**
 
 **2) create rules in action's comment using @rule tag like this**
 	/**
