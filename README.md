@@ -39,4 +39,5 @@ it will show a table if everything works well, you can check and uncheck for spe
 Tips
 ======
 1) admin has all priviledges.
+
 2) if you visit /path/to/admin/rbac , and it shows 'sorry , but you are not allowed to access this page', you can comment Rbac::check($node) in controller/admin/rbac.php temporary.
